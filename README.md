@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Javascript/Python or Angular/React/Express**
+- 💬 Ask me about **Javascript/Python/React/Express**
 
 - 📫 How to reach me **aditya.cse1001@gmail.com**
 
